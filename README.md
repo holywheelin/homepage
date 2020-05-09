@@ -1,4 +1,4 @@
-add test
+add test yamano
 # gatsby-advanced-blog
 > Gatsby starter for advanced blog
 
